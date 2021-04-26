@@ -1,2 +1,2 @@
-# Bioinformatics
-Pipelines and scripts for bioinformatics analysis
+# Bioinformática
+Pipelines e scripts para análises de Bioinformática
