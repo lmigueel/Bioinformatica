@@ -23,4 +23,6 @@ Programação Rosalind:
 http://rosalind.info/users/lmigueel/
 
 
-Se puder, cite o repositório com o Zenodo DOI (10.5072/zenodo.1064343).
+### Se puder, cite o repositório:
+
+Lucas Miguel de Carvalho. (2022). Bioinformatica. Zenodo. https://zenodo.org/badge/latestdoi/361907313.
