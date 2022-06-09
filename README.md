@@ -25,4 +25,6 @@ http://rosalind.info/users/lmigueel/
 
 ### Se puder, cite o repositório:
 
-Lucas Miguel de Carvalho. (2022). Bioinformatica: Bioinformatica 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.6583569
+#### Citação de todas as versões
+
+Lucas Miguel de Carvalho. (2022). Bioinformatica: Bioinformatica 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.6583568.
