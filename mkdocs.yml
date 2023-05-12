@@ -1,0 +1,37 @@
+site_name: 'Bioinformatica em português'
+site_url: 'https://lmigueel.github.io/Bioinformatica'
+site_description: 'Pipelines e workflows para Bioinformatica'
+site_author: 'Lucas Miguel de Carvalho'
+
+repo_name: 'lmigueel/Bioinformatica'
+repo_url: 'https://github.com/lmigueel/Bioinformatica'
+
+nav:
+  - Home: 'index.md'
+  - Geral: 'geral.md'
+  - Genomica: 'genomica.md'
+  - Transcriptomica: 'transcriptomica.md'
+  - Systems Biology: 'systems.md'
+  - Linguagem R: 'linguagemR.md'
+  - Outros: 'outros.md'
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'White'
+    accent: 'Light Blue'
+  font:
+    text: 'Nunito Sans'
+    code: 'Fira Mono'
+  logo:
+    icon: 'book'
+
+markdown_extensions:
+  - 'admonition'
+  - 'footnotes'
+  - 'codehilite'
+  - 'pymdownx.arithmatex'
+
+plugins:
+  - 'search'
+  - 'mknotebooks'
