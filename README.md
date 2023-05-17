@@ -5,10 +5,12 @@
 # Bioinformática
 Pipelines e scripts para análises de Bioinformática
 
+Acesso o **[SITE OFICIAL AQUI](https://lmigueel.github.io/Bioinformatica/)**.
+
 Este repositório foi criado para auxiliar pesquisadores de todo o Brasil nas análises de bioinformática. 
 As páginas de cada pipeline está no WIKI deste depositório. 
 
-Acesse: https://github.com/lmigueel/Bioinformatica/wiki
+Acesse o Wiki: https://github.com/lmigueel/Bioinformatica/wiki
 
 Quer saber como iniciar na Bioinformática? 
 
