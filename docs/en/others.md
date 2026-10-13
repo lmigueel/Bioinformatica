@@ -1,9 +1,8 @@
-# Linguagem R
+# Others
 
-Outros textos e pipelines sobre Bioinformatica.
+Other resources and pipelines about bioinformatics.
 
-## Textos
-
+## Resources
 
 [1. Desenho experimental: custo e exemplo](https://github.com/lmigueel/Bioinformatica/wiki/Desenho-experimental:-custo-e-exemplo)
 

@@ -17,6 +17,29 @@ nav:
 
 theme:
   name: 'material'
+  languages:
+    pt: 'Português'
+    en: 'English'
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.expand
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.tabs.sticky
+    - navigation.tabs.sticky.scrollable
+    - navigation.tabs.sticky.scrollable.auto
+    - navigation.tabs.sticky.scrollable.auto.hide
+    - navigation.tabs.sticky.scrollable.auto.hide.scroll
+    - navigation.tabs.sticky.scrollable.auto.hide.scroll.on
+    - navigation.tabs.sticky.scrollable.auto.hide.scroll.off
+    - navigation.tabs.sticky.scrollable.auto.hide.scroll.on.off
+    - navigation.tabs.sticky.scrollable.auto.hide.scroll.on.off.toggle
+    - navigation.tabs.sticky.scrollable.auto.hide.scroll.on.off.toggle.on
+    - navigation.tabs.sticky.scrollable.auto.hide.scroll.on.off.toggle.off
+    - navigation.tabs.sticky.scrollable.auto.hide.scroll.on.off.toggle.on.off 
   palette:
     primary: 'White'
     accent: 'Light Blue'
@@ -35,3 +58,24 @@ markdown_extensions:
 plugins:
   - 'search'
   - 'mknotebooks'
+  - i18n:
+      default_language: 'pt'
+      languages:
+        pt:
+          name: 'Português'
+          locale: 'pt-BR'
+          direction: 'ltr'
+          translations:
+            search: 'Pesquisar'
+            next_page: 'Próxima página'
+            previous_page: 'Página anterior'
+            home: 'Início'
+        en:
+          name: 'English'
+          locale: 'en-CA'
+          direction: 'ltr'
+          translations:
+            search: 'Search'
+            next_page: 'Next page'
+            previous_page: 'Previous page'
+            home: 'Home'
